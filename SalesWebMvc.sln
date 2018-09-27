@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWebMvc", "SalesWebMvc\SalesWebMvc.csproj", "{603A0330-44C1-41F0-BC94-DC686C9255D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603A0330-44C1-41F0-BC94-DC686C9255D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A0330-44C1-41F0-BC94-DC686C9255D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603A0330-44C1-41F0-BC94-DC686C9255D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603A0330-44C1-41F0-BC94-DC686C9255D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
